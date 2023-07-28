@@ -12,7 +12,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * CSS
 * JavaScript
 * React
-  * [![React][React.js]][React-url]
+
 
 ## Instalation
 1. Clone thr repository: git clone (https://github.com/larastrokach/toDoList.git)
