@@ -48,14 +48,14 @@ ul,li{
   box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
   margin-top: 15px;
   margin-bottom:10px;
-  border-radius: 10px;
+  border-radius: 1px;
   color: rgb(20, 206, 212);
 }
 
 .delete { 
   color: #d300a2;
   border-radius: 10px;
-  margin-top: 10px;
+  margin-top: 1px;
   background: #dde1e7;
   box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
 }
