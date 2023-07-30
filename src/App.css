@@ -5,17 +5,21 @@ body {
 .App {
   background: #dde1e7;
   min-height: 80vh;
-  width: 500px;
+  width: 400px;
   margin: 20px auto;
   
 }
 
 .crossed {
-  text-decoration: line-through 2px rgb(221, 51, 227);
   background-color: #f0f0f0;
   border-radius: 10px;
   box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
   margin: 5px;
+  -webkit-text-decoration-line: line-through;
+
+-webkit-text-decoration-color: rgb(221, 51, 227);
+
+-webkit-text-decoration-thickness:2px;
 }
 
 
