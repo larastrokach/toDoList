@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import check from './check.png'
+
 import note from './note.png'
 
 export class ToDoList extends Component {
